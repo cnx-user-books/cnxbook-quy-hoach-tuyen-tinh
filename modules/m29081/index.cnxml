@@ -1,0 +1,238 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Bài tập tổng hợp</title>
+  <metadata>
+  <md:content-id>m29081</md:content-id><md:title>Bài tập tổng hợp</md:title>
+  <md:abstract/>
+  <md:uuid>df6e932a-a22b-495f-8e9e-c06fdb299dbf</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-232017279288">
+      <title>BÀI TẬP TỔNG HỢP</title>
+      <para id="id5723983">I- Xí nghiệp sản xuất giấy có 3 phân xưởng. Do trang bị kỹ thuật khác nhau nên mức hao phí tre gỗ, axit để sản xuất một tấn giấy thành phẩm cũng khác nhau. Mức hao phí được cho trong bảng dưới đây :</para>
+      <table id="id5723990" summary="">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry/>
+              <entry namest="c2" nameend="c4">Mức hao phí nguyên liệu cho 1 tấn giấy</entry>
+            </row>
+            <row>
+              <entry>Nguyên liệu</entry>
+              <entry>P.Xưởng I</entry>
+              <entry>P.Xưởng II</entry>
+              <entry>P.Xưởng III</entry>
+            </row>
+            <row>
+              <entry>Tre gỗ</entry>
+              <entry>1,4 (tấn)</entry>
+              <entry>1,3</entry>
+              <entry>1,2</entry>
+            </row>
+            <row>
+              <entry>Axit</entry>
+              <entry>0,1</entry>
+              <entry>0,12</entry>
+              <entry>0,15</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id4794623">Số lượng tre gỗ có trong năm là 1.500.000 tấn, Axit là 100.000 tấn.</para>
+      <para id="id5754867">Yêu cầu</para>
+      <para id="id5757558">1. Xây dựng mô hình sao cho tổng số giấy sản xuất trong năm của xí nghiệp là nhiều nhất.</para>
+      <para id="id4801429">2. Xây dựng mô hình bài toán đối ngẫu với mô hình toán của câu 1.</para>
+      <para id="id5573804">3. Tìm phương án tối ưu ứng với mô hình toán ở câu 1. Từ đó suy ra số tấn giấy của mỗi phân xưởng cần sản xuất trong năm.</para>
+      <para id="id6304874">4. Áp dụng kết quả bài toán đối ngẫu để từ bảng đơn hình tối ưu câu 3 suy ra phương án tối ưu cho bài toán đối ngẫu câu 2.</para>
+      <para id="id5754071">II- Một xí nghiệp có thể sản xuất bốn loại mặt hàng xuất khẩu H1, H2, H3, H4. Ðể sản xuất 4 loại mặt hàng này, xí nghiệp sử dụng 2 loại nguyên liệu N1, N2. Số nguyên liệu tối đa mà xí nghiệp huy động được tương ứng là 600kg và 800kg. Mức tiêu hao mỗi loại nguyên liệu để sản xuất một mặt hàng và lợi nhuận thu được được cho trong bảng sau :</para>
+      <table id="id5727813" summary="">
+        <tgroup cols="5">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry>Ðịnh mức tiêu hao nguyên liệu và lợi nhuận</entry>
+              <entry>H1</entry>
+              <entry>H2</entry>
+              <entry>H3</entry>
+              <entry>H4</entry>
+            </row>
+            <row>
+              <entry>N1</entry>
+              <entry>0,5</entry>
+              <entry>0,2</entry>
+              <entry>0,3</entry>
+              <entry>0,4</entry>
+            </row>
+            <row>
+              <entry>N2</entry>
+              <entry>0,1</entry>
+              <entry>0,4</entry>
+              <entry>0,2</entry>
+              <entry>0,5</entry>
+            </row>
+            <row>
+              <entry>Lợi nhuận</entry>
+              <entry>0,8</entry>
+              <entry>0,3</entry>
+              <entry>0,5</entry>
+              <entry>0,4</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id5842161">Yêu cầu </para>
+      <para id="id5842165">1- Lập mô hình để xí nghiệp sản xuất đạt lợi nhuận cao nhất.</para>
+      <para id="id5829801">2- Xây dựng bài toán đối ngẫu ứng với mô hình toán ở câu 1.</para>
+      <para id="id5745817">3- Áp dụng thuật toán đơn hình cải tiến và kết quả đối ngẫu để tìm các phương án tối ưu cho cả 2 mô hình.</para>
+      <para id="id4799841">III- Xí nghiệp cơ khí Hùng Vương có 32 công nhân nam và 20 công nhân nữ. Xí nghiệp có 2 loại máy : cắt và tiện. Năng suất trung bình của các công nhân đối với mỗi loại máy được cho trong bảng bên dưới đây :</para>
+      <table id="id4799963" summary="">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Năng suất công việc</entry>
+              <entry>công nhân nam</entry>
+              <entry>công nhân nữ</entry>
+            </row>
+            <row>
+              <entry>Máy cắt</entry>
+              <entry>30 chi tiết/giờ</entry>
+              <entry>22 chi tiết/giờ</entry>
+            </row>
+            <row>
+              <entry>Máy tiện</entry>
+              <entry>25 chi tiết/giờ</entry>
+              <entry>20 chi tiết/giờ</entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <para id="id6304823">Biết rằng trong ngày cắt được bao nhiêu chi tiết thì tiện hết bấy nhiêu chi tiết</para>
+      <section id="id-98136412236">
+        <title>Yêu cầu </title>
+        <para id="id5829565">1- Lập mô hình để xí nghiệp sản xuất được nhiều sản phẩm nhất.</para>
+        <para id="id4795152">2- Lập mô hình đối ngẫu ứng với mô hình câu 1.</para>
+        <para id="id5830509">3- Áp dụng thuật toán đơn hình cải tiến và kết quả đối ngẫu để tìm phương án tối ưu cho cả 2 mô hình toán trên.</para>
+        <para id="id6335765">IV- Một công ty chuyên sản xuất 3 loại sản phẩm A, B, C. Trong đó nguyên liệu để sản xuất ra 3 loại sản phẩm trên được nhập về từ 2 nguồn N1, N2. Chi phí cho mỗi đơn vị nguyên liệu nhập từ nguồn N1 là 100000 USD và nguồn N2 là 90000 USD.</para>
+        <para id="id5753401">Các loại sản phẩm sản xuất cần các đơn vị nguyên liệu của từng nguồn được cho trong bảng sau :</para>
+        <table id="id5834209" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Nguồn nguyên liệu</entry>
+                <entry namest="c2" nameend="c4">Loại sản phẩm</entry>
+              </row>
+              <row>
+                <entry/>
+                <entry>A</entry>
+                <entry>B</entry>
+                <entry>C</entry>
+              </row>
+              <row>
+                <entry>N1</entry>
+                <entry>1000</entry>
+                <entry>2000</entry>
+                <entry>3000</entry>
+              </row>
+              <row>
+                <entry>N2</entry>
+                <entry>2000</entry>
+                <entry>1000</entry>
+                <entry>2000</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id5725606">Số lượng tối thiểu sản phẩm loại A cần sản xuất trong thời gian tới là 20000 , sản phẩm loại B là 18000, sản phẩm loại C là 15000.</para>
+        <para id="id6198879">Yêu cầu </para>
+        <para id="id5725706">1- Lập mô hình để tổng chi phí sản xuất mà công ty bỏ ra là nhỏ nhất mà vẫn đảm bảo yêu cầu về sản phẩm.</para>
+        <para id="id5832665">2- Lập mô hình để công ty sản xuất đạt doanh thu cao nhất</para>
+        <para id="id6199728">3. Tìm phương án tối ưu cho cả 2 mô hình.</para>
+        <para id="id6201275">V- Một cơ sở dự định sản xuất tối đa trong một ngày 500 ổ bánh mì dài và 500 ổ bánh mì tròn, muốn đạt lợi nhuận nhiều nhất, với những điều kiện như sau :</para>
+        <para id="id5836001">- Giá bán một ổ bánh mì dài làm từ 400 gam bột là 325 đồng, một ổ bánh mì tròn làm từ 250 gam bột là 220 đồng.</para>
+        <para id="id5726159">- Số lượng bột được cung cấp tối đa trong ngày là 225 kg với giá mỗi kg là 300 đồng.</para>
+        <para id="id5839139">- Lò nướng bánh cho phép nướng 75 ổ bánh mì dài hay 100 ổ bánh mì tròn trong một giờ nhưng không thể nướng hai loại cùng một lúc. Lò nướng hoạt động tối đa 8 giờ trong một ngày.</para>
+      </section>
+      <section id="id-405766000263">
+        <title>Yêu cầu</title>
+        <para id="id5838518">1- Lập mô hình cho bài toán nêu trên.</para>
+        <para id="id5838524">2- Xây dựng bài toán đối ngẫu cho bài toán trên.</para>
+        <para id="id4794284">3- Tìm phương án tối ưu cho cả hai bài toán.</para>
+        <para id="id5742322">VI- Ba xí nghiệp A, B, C cùng có thể sản xuất áo vét và quần. Khả năng sản xuất của mỗi xí nghiệp như sau : Khi đầu tư 1000USD vào xí nghiệp A thì thu được 35 áo vét và 45 quần ; vào xí nghiệp B thì thu được 40 áo vét và 42 quần ; vào xí nghiệp C thì thu được 43 áo vét và 30 quần. Lượng vải và và giờ công để sản xuất được cho trong bảng sau :</para>
+        <table id="id4795788" summary="">
+          <tgroup cols="7">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry>Xí nghiệp</entry>
+                <entrytbl namest="c2" nameend="c7" cols="3">
+                  <colspec colnum="1" colname="c1"/>
+                  <colspec colnum="2" colname="c2"/>
+                  <colspec colnum="3" colname="c3"/>
+                  <tbody>
+                    <row>
+                      <entry>A</entry>
+                      <entry>B</entry>
+                      <entry>C</entry>
+                    </row>
+                    <row>
+                      <entry>Vải/Giờ</entry>
+                      <entry>Vải/Giờ</entry>
+                      <entry>Vải/Giờ</entry>
+                    </row>
+                  </tbody>
+                </entrytbl>
+              </row>
+              <row>
+                <entry>1 áo vét</entry>
+                <entry>3,5m</entry>
+                <entry>20 giờ</entry>
+                <entry>4m</entry>
+                <entry>16 giờ</entry>
+                <entry>3,8m</entry>
+                <entry>18 giờ</entry>
+              </row>
+              <row>
+                <entry>1 quần</entry>
+                <entry>2,8m</entry>
+                <entry>10 giờ</entry>
+                <entry>2,6m</entry>
+                <entry>12 giờ</entry>
+                <entry>2,5m</entry>
+                <entry>15 giờ</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <para id="id4798111">Tổng số vải huy động được là 10000m.</para>
+        <para id="id5757880">Tổng số giờ công huy động được là 52000 giờ.</para>
+        <para id="id5757887">Theo hợp đồng thì tối thiểu phải có 1500 bộ quần áo, nếu lẻ bộ thì quần là dễ bán.</para>
+        <para id="id5842683">Hãy lập kế hoạch đầu tư vào mỗi xí nghiệp bao nhiêu vốn để :</para>
+        <para id="id5838251">- Hoàn thành hơp đồng</para>
+        <para id="id5838256">- Không khó khăn về tiêu thụ</para>
+        <para id="id4797762">- Không bị động về vải và giờ công</para>
+        <para id="id4797768">- Tổng số vốn đầu tư là nhỏ nhất </para>
+      </section>
+    </section>
+  </content>
+</document>
