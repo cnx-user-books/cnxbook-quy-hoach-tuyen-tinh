@@ -2007,7 +2007,7 @@
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext>max</m:mtext>
                     <m:mtext/>
                     <m:msub>
@@ -2036,10 +2036,10 @@
                       </m:mrow>
                     </m:mfenced>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -2081,10 +2081,10 @@
                       <m:mn>1</m:mn>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:msub>
                       <m:mi>p</m:mi>
                       <m:mstyle fontsize="8pt">
@@ -2171,10 +2171,10 @@
                     <m:mi>n</m:mi>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>p</m:mi>
@@ -2198,20 +2198,20 @@
                     <m:mi>n</m:mi>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mo stretchy="true">{</m:mo>
                               <m:mrow/>
@@ -2225,12 +2225,12 @@
                               <m:mrow/>
                             </m:mrow>
                             <m:mrow/>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                       <m:mrow/>
                     </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -2254,7 +2254,7 @@
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext>min</m:mtext>
                     <m:mtext/>
                     <m:msub>
@@ -2283,10 +2283,10 @@
                       </m:mrow>
                     </m:mfenced>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -2328,10 +2328,10 @@
                       <m:mn>1</m:mn>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:msub>
                       <m:mi>q</m:mi>
                       <m:mstyle fontsize="8pt">
@@ -2418,10 +2418,10 @@
                     <m:mi>m</m:mi>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>q</m:mi>
@@ -2445,20 +2445,20 @@
                     <m:mi>m</m:mi>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mo stretchy="true">{</m:mo>
                               <m:mrow/>
@@ -2472,12 +2472,12 @@
                               <m:mrow/>
                             </m:mrow>
                             <m:mrow/>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                       <m:mrow/>
                     </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -2610,14 +2610,14 @@
         </para>
         <para id="id5880631">Khi đó hai bài toán quy hoạch tuyến tính trên trở thành :</para>
         <para id="id4639062">(D) 
-<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>min</m:mtext><m:mtext/><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1j</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2j</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mj</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+<m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mtext>min</m:mtext><m:mtext/><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1j</m:mn></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2j</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mj</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
  left lbrace "min""  " {  {1}  over  {g rSub { size 8{1} } } } =x rSub { size 8{1} } +x rSub { size 8{2} } +  "."  "."  "." +x rSub { size 8{m} }  {} # 
  right none  left lbrace a rSub { size 8{1j} } x rSub { size 8{1} } +a rSub { size 8{2j} } x rSub { size 8{2} } +  "."  "."  "." +a rSub { size 8{ ital "mj"} } x rSub { size 8{m} }  &gt;= 1"          " \( j=1 rightarrow n \)  {} # 
  right none  left lbrace x rSub { size 8{i} } &gt;0"    " \( i=1 rightarrow m \)  {} # 
  right no } }  lbrace } {}</m:annotation></m:semantics></m:math></para>
         <para id="id4963449"/>
         <para id="id4963456">(P) 
-<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>max</m:mtext><m:mtext/><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">i1</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">i2</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>in</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≤</m:mo><m:mtext>1          </m:mtext></m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+<m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mtext>max</m:mtext><m:mtext/><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">i1</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">i2</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mtext>.</m:mtext></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>.</m:mtext><m:mo stretchy="false">+</m:mo><m:msub><m:mi>a</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>in</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≤</m:mo><m:mtext>1          </m:mtext></m:mrow><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
  left lbrace "max""  " {  {1}  over  {g rSub { size 8{2} } } } =y rSub { size 8{1} } +y rSub { size 8{2} } +  "."  "."  "." +y rSub { size 8{3} }  {} # 
  right none  left lbrace a rSub { size 8{i1} } y rSub { size 8{1} } +a rSub { size 8{i2} } y rSub { size 8{2} } +  "."  "."  "."  +a rSub { size 8{ ital "in"} } y rSub { size 8{n} }  &lt;= "1          " \( i=1 rightarrow m \)  {} # 
  right none  left lbrace y rSub { size 8{j} } &gt;0"     " \( j=1 rightarrow m \)  {} # 
@@ -2796,14 +2796,14 @@
           </tgroup>
         </table>
         <para id="id5799125">(D)
-<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>min</m:mtext><m:mrow><m:mrow><m:mtext> w</m:mtext><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>7x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>8x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mtext> x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+<m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mtext>min</m:mtext><m:mrow><m:mrow><m:mtext> w</m:mtext><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:msub><m:mn>3x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>7x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:msub><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>2x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>8x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:msub><m:mn>5x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6x</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≥</m:mo><m:mn>1</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mtext> x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
  left lbrace "min"" w"= {  {1}  over  {g rSub { size 8{1} } } } =x rSub { size 8{1} } +x rSub { size 8{2} } +x rSub { size 8{3} }  {} # 
  right none  left lbrace  3x rSub { size 8{1} } +5x rSub { size 8{2} } +7x rSub { size 8{3} }  &gt;= 1  {} # 
  right none  left lbrace  6x rSub { size 8{1} } +2x rSub { size 8{2} } +8x rSub { size 8{3} }  &gt;= 1 {} # 
  right none  left lbrace  5x rSub { size 8{1} } +6x rSub { size 8{2} } +x rSub { size 8{3} }  &gt;= 1 {} # 
  right none  left lbrace " x" rSub { size 8{1} } &gt;0"  ","  x" rSub { size 8{2} } &gt;0"  ","  x" rSub { size 8{3} } &gt;0 {} # 
  right no } }  lbrace } {}</m:annotation></m:semantics></m:math> (P)
-<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mtext>max</m:mtext><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mn>3y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>5y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mn>5y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>2y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mn>7y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>8y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+<m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mtext>max</m:mtext><m:mrow><m:mrow><m:mi>z</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:msub><m:mn>3y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>5y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:msub><m:mn>5y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>2y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mn>6y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:msub><m:mn>7y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mn>8y</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mn>1</m:mn></m:mrow><m:mtext/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mi>,</m:mi><m:mrow><m:msub><m:mtext>  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
  left lbrace "max"z= {  {1}  over  {g rSub { size 8{2} } } } =y rSub { size 8{1} } +y rSub { size 8{2} } +y rSub { size 8{3} }  {} # 
  right none  left lbrace 3y rSub { size 8{1} } +6y rSub { size 8{2} } +5y rSub { size 8{3} }  &lt;= 1"       " {} # 
  right none  left lbrace 5y rSub { size 8{1} } +2y rSub { size 8{2} } +6y rSub { size 8{3} }  &lt;= 1"   " {} # 
@@ -2813,7 +2813,7 @@
         <para id="id5877403">Ta chọn bài toán (P) để giải.</para>
         <para id="id5877412">Ðưa bài toán (P) về dạng chuẩn :</para>
         <para id="id5877419">(P)
-<m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mrow><m:mrow><m:mtext>max z</m:mtext><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>3y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>6y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>5y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>1       </m:mtext></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>5y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>2y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>6y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>1   </m:mtext></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>7y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>8y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>1   </m:mtext></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0  ,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0  ,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0  , y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0 ,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
+<m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:mtext>max z</m:mtext><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>g</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>3y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>6y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>5y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>1       </m:mtext></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>5y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>2y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>6y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>1   </m:mtext></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mtext>7y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mtext>8y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mtext>1   </m:mtext></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0  ,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0  ,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0  , y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>5</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:msub><m:mtext>0 ,  y</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>6</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{alignl { stack {
  left lbrace "max z"= {  {1}  over  {g rSub { size 8{2} } } } =y rSub { size 8{1} } +y rSub { size 8{2} } +y rSub { size 8{3} } +0 "." y rSub { size 8{4} } +0 "." y rSub { size 8{5} } +0 "." y rSub { size 8{6} }  {} # 
  right none  left lbrace "3y" rSub { size 8{1} } +"6y" rSub { size 8{2} } +"5y" rSub { size 8{3} } +y rSub { size 8{4} } ="1       " {} # 
  right none  left lbrace "5y" rSub { size 8{1} } +"2y" rSub { size 8{2} } +"6y" rSub { size 8{3} } +y rSub { size 8{5} } ="1   " {} # 
@@ -5118,7 +5118,7 @@
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mfrac>
                         <m:mn>1</m:mn>
@@ -5138,10 +5138,10 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -5179,10 +5179,10 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -5220,10 +5220,10 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -5261,16 +5261,16 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mtext>     suy  ra  </m:mtext>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>g</m:mi>
@@ -5287,10 +5287,10 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>q</m:mi>
@@ -5307,10 +5307,10 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>q</m:mi>
@@ -5327,10 +5327,10 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>q</m:mi>
@@ -5347,20 +5347,20 @@
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mo stretchy="true">{</m:mo>
                               <m:mrow/>
@@ -5374,12 +5374,12 @@
                               <m:mrow/>
                             </m:mrow>
                             <m:mrow/>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                       <m:mrow/>
                     </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -5404,7 +5404,7 @@
           </m:math>
         </para>
         <para id="id6190787">Phương án tối ưu của bài toán đối ngẫu (D) được tính bằng công thức sau :
-<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow><m:mo stretchy="false">=</m:mo><m:msubsup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>B</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mrow><m:msup><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mfrac><m:mtext>37</m:mtext><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mtext>16</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mtext>12</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mtext>23</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+<m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow><m:mo stretchy="false">=</m:mo><m:msubsup><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>B</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:msubsup></m:mrow><m:mrow><m:msup><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">=</m:mo><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mfrac><m:mtext>37</m:mtext><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mtext>16</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mn>7</m:mn><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mtext>12</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mtext>23</m:mtext><m:mtext>107</m:mtext></m:mfrac></m:mrow><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mtext>13</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mtext/><m:mo stretchy="false">=</m:mo><m:mfenced open="[" close="]"><m:mtable><m:mtr><m:mtd><m:mrow><m:mfrac><m:mtext>17</m:mtext><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mtext>10</m:mtext><m:mtext>107</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd><m:mtd><m:mrow><m:mfrac><m:mn>9</m:mn><m:mtext>214</m:mtext></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mfenced></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{x rSup { size 8{T} } = left [ matrix {
 x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
 }  right ]=c rSub { size 8{B} }  rSup { size 8{T} } B rSup { size 8{ - 1} }  = left [  matrix {
@@ -5541,7 +5541,7 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mi>w</m:mi>
@@ -5565,10 +5565,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -5606,10 +5606,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -5647,10 +5647,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -5688,16 +5688,16 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mtext>         suy  ra  </m:mtext>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>g</m:mi>
@@ -5714,10 +5714,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>p</m:mi>
@@ -5734,10 +5734,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>p</m:mi>
@@ -5754,10 +5754,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>p</m:mi>
@@ -5774,20 +5774,20 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mfrac>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mtext/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mo stretchy="true">{</m:mo>
                               <m:mrow/>
@@ -5801,12 +5801,12 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                               <m:mrow/>
                             </m:mrow>
                             <m:mrow/>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                       <m:mrow/>
                     </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -5844,7 +5844,7 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mi>N</m:mi>
                       <m:mo stretchy="false">=</m:mo>
@@ -5855,10 +5855,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mrow>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mi>S</m:mi>
@@ -5869,31 +5869,31 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       <m:mo stretchy="false">∅</m:mo>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mo stretchy="true">{</m:mo>
                               <m:mrow/>
                             </m:mrow>
                             <m:mrow/>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                       <m:mrow/>
                     </m:mrow>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -6256,7 +6256,7 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mstyle fontsize="12pt">
                       <m:mrow>
                         <m:mrow>
@@ -6336,10 +6336,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                       </m:mrow>
                     </m:mstyle>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:munderover>
@@ -6391,10 +6391,10 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                     <m:mtext>,m</m:mtext>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:munderover>
                         <m:mo stretchy="false">∑</m:mo>
@@ -6446,27 +6446,27 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                     <m:mtext>,n</m:mtext>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mtext/>
                     <m:mo stretchy="false">(</m:mo>
                     <m:mn>2</m:mn>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msub>
                             <m:mi>x</m:mi>
@@ -6484,32 +6484,32 @@ x rSub { size 8{1} }  {} # x rSub { size 8{2} }  {} # x rSub { size 8{3} } {}
                         <m:mn>3</m:mn>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mo stretchy="true">{</m:mo>
                                   <m:mrow/>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
                         </m:mrow>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:annotation encoding="StarMath 5.0">alignl { stack {
@@ -6951,7 +6951,7 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                 <m:semantics>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:mrow>
@@ -6980,10 +6980,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                           <m:mn>0</m:mn>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:mrow>
@@ -7012,10 +7012,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                           <m:mn>0</m:mn>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:mrow>
@@ -7044,10 +7044,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                           <m:mn>0</m:mn>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:mrow>
@@ -7076,10 +7076,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                           <m:mn>0</m:mn>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:mrow>
@@ -7108,20 +7108,20 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                           <m:mn>0</m:mn>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow/>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mo stretchy="true">{</m:mo>
                                   <m:mrow/>
@@ -7139,12 +7139,12 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                                   <m:mrow/>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
                         </m:mrow>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
                       <m:mstyle fontsize="12pt">
@@ -7397,29 +7397,29 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                 <m:semantics>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mn>1</m:mn>
                         <m:mtext/>
                         <m:mtext>nÕu ng­êi i nhËn viÖc j</m:mtext>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mn>0</m:mn>
                         <m:mtext/>
                         <m:mtext>nÕu tr­êng hîp kh¸c</m:mtext>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow/>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msub>
                             <m:mi>x</m:mi>
@@ -7438,17 +7438,17 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                         </m:mrow>
                         <m:mtable>
                           <m:mtr>
-                            <m:mrow>
+                            <m:mtd>
                               <m:mrow>
                                 <m:mo stretchy="true">{</m:mo>
                                 <m:mrow/>
                               </m:mrow>
                               <m:mrow/>
-                            </m:mrow>
+                            </m:mtd>
                           </m:mtr>
                         </m:mtable>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
                       <m:mstyle fontsize="12pt">
@@ -7784,7 +7784,7 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                 <m:semantics>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -7862,10 +7862,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:munderover>
@@ -7923,10 +7923,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                         <m:mi>n</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:munderover>
                             <m:mo stretchy="false">∑</m:mo>
@@ -7980,10 +7980,10 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                         <m:mi>m</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msub>
                             <m:mi>x</m:mi>
@@ -8017,25 +8017,25 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                         <m:mi>n</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow/>
+                          <m:mtd/>
                         </m:mtr>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mtable>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                     <m:mrow>
                                       <m:mo stretchy="true">{</m:mo>
                                       <m:mrow/>
@@ -8045,19 +8045,19 @@ x rSub { size 8{"ij"} }  &gt;= 0"                                    " \( 3 \)  
                                       <m:mrow/>
                                     </m:mrow>
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                               </m:mtable>
                               <m:mrow/>
                             </m:mrow>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:annotation encoding="StarMath 5.0">alignl { stack {
@@ -8248,7 +8248,7 @@ alignl { stack {
                 <m:semantics>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -8325,10 +8325,10 @@ alignl { stack {
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:munderover>
@@ -8382,10 +8382,10 @@ alignl { stack {
                         <m:mi>m</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:munderover>
@@ -8435,10 +8435,10 @@ alignl { stack {
                         <m:mi>n</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msub>
                             <m:mi>x</m:mi>
@@ -8469,25 +8469,25 @@ alignl { stack {
                         <m:mi>n</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow/>
+                          <m:mtd/>
                         </m:mtr>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mtable>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                     <m:mrow>
                                       <m:mo stretchy="true">{</m:mo>
                                       <m:mrow/>
@@ -8497,19 +8497,19 @@ alignl { stack {
                                       <m:mrow/>
                                     </m:mrow>
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                               </m:mtable>
                               <m:mrow/>
                             </m:mrow>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:annotation encoding="StarMath 5.0">alignl { stack {
@@ -8528,7 +8528,7 @@ alignl { stack {
             <para id="id5791151">Gọi E là tập các cung không cấm, tức là các cung (i,j), iS, jD và bài toán có thêm điều kiện</para>
             <para id="id5791180">xij=0 với (i,j)E</para>
             <para id="id5791213">ta đưa bài toán có các yêu cầu</para>
-            <para id="id5791218"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>min</m:mtext><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:munderover><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:msub><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mrow><m:mtext>,j</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>     khi </m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>i,j</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">∉</m:mo><m:mi>E</m:mi></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mtable><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr></m:mtable></m:mtr><m:mtr><m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0">alignl { stack {
+            <para id="id5791218"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>min</m:mtext><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:munderover><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:msub><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mrow><m:mtext>,j</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>     khi </m:mtext><m:mo stretchy="false">(</m:mo><m:mtext>i,j</m:mtext><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">∉</m:mo><m:mi>E</m:mi></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mtr><m:mtr><m:mtd><m:mrow/></m:mtd></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{"min"  Sum cSub { size 8{j=1} }  cSup { size 8{n+1} }  { Sum cSub { size 8{i=1} }  cSup { size 8{m} }  {c rSub { size 8{ ital "ij"} } x rSub { size 8{ ital "ij"} } } } }  {} # 
 alignl { stack {
  left lbrace  Sum cSub { size 8{j=1} }  cSup { size 8{n} }  {x rSub { size 8{ ital "ij"} } } =s rSub { size 8{i} } "     " \( i=1 rightarrow m \)  {} # 
@@ -8543,7 +8543,7 @@ alignl { stack {
                 <m:semantics>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:msub>
                           <m:mi>c</m:mi>
                           <m:mstyle fontsize="8pt">
@@ -8566,10 +8566,10 @@ alignl { stack {
                           <m:mi>E</m:mi>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mtext>M      nÕu </m:mtext>
                         <m:mo stretchy="false">(</m:mo>
                         <m:mtext>i,j</m:mtext>
@@ -8579,16 +8579,16 @@ alignl { stack {
                           <m:mi>E</m:mi>
                         </m:mrow>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow/>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msub>
                             <m:mover accent="true">
@@ -8610,17 +8610,17 @@ alignl { stack {
                         </m:mrow>
                         <m:mtable>
                           <m:mtr>
-                            <m:mrow>
+                            <m:mtd>
                               <m:mrow>
                                 <m:mo stretchy="true">{</m:mo>
                                 <m:mrow/>
                               </m:mrow>
                               <m:mrow/>
-                            </m:mrow>
+                            </m:mtd>
                           </m:mtr>
                         </m:mtable>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
                       <m:mstyle fontsize="12pt">
@@ -8639,7 +8639,7 @@ alignl { stack {
             </para>
             <para id="id4922018">Ở đây M là một số rất lớn, được coi là số lớn hơn mọi số gặp phải khi tính toán.</para>
             <para id="id4922025">Xét bài toán với cước phí mới như trên như sau :</para>
-            <para id="id4922033"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>min</m:mtext><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:munderover><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:msub><m:mover accent="true"><m:mi>c</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mrow><m:mtext>,j</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mtable><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr></m:mtable></m:mtr><m:mtr><m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0">alignl { stack {
+            <para id="id4922033"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>min</m:mtext><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>n</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:munderover><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:msub><m:mover accent="true"><m:mi>c</m:mi><m:mo>¯</m:mo></m:mover><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:munderover><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>ij</m:mtext></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">≥</m:mo><m:mn>0</m:mn></m:mrow><m:mtext/><m:mo stretchy="false">(</m:mo><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>m</m:mi><m:mrow><m:mtext>,j</m:mtext><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mo stretchy="false">→</m:mo><m:mi>n</m:mi><m:mo stretchy="false">)</m:mo><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mtr><m:mtr><m:mtd><m:mrow/></m:mtd></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{"min"  Sum cSub { size 8{j=1} }  cSup { size 8{n+1} }  { Sum cSub { size 8{i=1} }  cSup { size 8{m} }  { {overline  {c}}  rSub { size 8{ ital "ij"} } x rSub { size 8{ ital "ij"} } } } }  {} # 
 alignl { stack {
  left lbrace  Sum cSub { size 8{j=1} }  cSup { size 8{n} }  {x rSub { size 8{ ital "ij"} } } =s rSub { size 8{i} } "     " \( i=1 rightarrow m \)  {} # 
@@ -8667,7 +8667,7 @@ alignl { stack {
                 <m:semantics>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mstyle fontsize="12pt">
                           <m:mrow>
                             <m:mrow>
@@ -8770,10 +8770,10 @@ alignl { stack {
                           </m:mrow>
                         </m:mstyle>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:munderover>
@@ -8842,10 +8842,10 @@ alignl { stack {
                         <m:mi>m</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:munderover>
@@ -8914,10 +8914,10 @@ alignl { stack {
                         <m:mi>n</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mrow>
                             <m:munderover>
@@ -8986,10 +8986,10 @@ alignl { stack {
                         <m:mi>k</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:msub>
                             <m:mi>x</m:mi>
@@ -9029,25 +9029,25 @@ alignl { stack {
                         <m:mi>n</m:mi>
                         <m:mo stretchy="false">)</m:mo>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
                       <m:mtable>
                         <m:mtr>
-                          <m:mrow/>
+                          <m:mtd/>
                         </m:mtr>
                         <m:mtr>
-                          <m:mrow>
+                          <m:mtd>
                             <m:mrow>
                               <m:mtable>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                     <m:mrow>
                                       <m:mo stretchy="true">{</m:mo>
                                       <m:mrow/>
@@ -9061,19 +9061,19 @@ alignl { stack {
                                       <m:mrow/>
                                     </m:mrow>
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                               </m:mtable>
                               <m:mrow/>
                             </m:mrow>
-                          </m:mrow>
+                          </m:mtd>
                         </m:mtr>
                       </m:mtable>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                   <m:annotation encoding="StarMath 5.0">alignl { stack {
@@ -9133,7 +9133,7 @@ alignl { stack {
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mstyle fontsize="12pt">
                       <m:mrow>
                         <m:mrow>
@@ -9182,10 +9182,10 @@ alignl { stack {
                       </m:mrow>
                     </m:mstyle>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:msub>
@@ -9264,10 +9264,10 @@ alignl { stack {
                     </m:mrow>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:mn>0</m:mn>
@@ -9309,49 +9309,49 @@ alignl { stack {
                       <m:mi>A</m:mi>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mtext/>
                         <m:mrow/>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mo stretchy="true">{</m:mo>
                                   <m:mrow/>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
                         </m:mrow>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:annotation encoding="StarMath 5.0">alignl { stack {
@@ -9376,29 +9376,29 @@ alignl { stack {
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mn>1</m:mn>
                     <m:mtext/>
                     <m:mtext>nÕu  ng­êi  i  nhËn  c«ng  viÖc  j</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mn>0</m:mn>
                     <m:mtext/>
                     <m:mtext>nÕu  ng­êi  i  kh«ng nhËn  c«ng  viÖc  j</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>x</m:mi>
@@ -9417,17 +9417,17 @@ alignl { stack {
                     </m:mrow>
                     <m:mtable>
                       <m:mtr>
-                        <m:mrow>
+                        <m:mtd>
                           <m:mrow>
                             <m:mo stretchy="true">{</m:mo>
                             <m:mrow/>
                           </m:mrow>
                           <m:mrow/>
-                        </m:mrow>
+                        </m:mtd>
                       </m:mtr>
                     </m:mtable>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -9457,7 +9457,7 @@ alignl { stack {
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mstyle fontsize="12pt">
                       <m:mrow>
                         <m:mrow>
@@ -9507,10 +9507,10 @@ alignl { stack {
                       </m:mrow>
                     </m:mstyle>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:mrow>
                         <m:munderover>
@@ -9553,10 +9553,10 @@ alignl { stack {
                       <m:mi>b</m:mi>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>x</m:mi>
@@ -9581,43 +9581,43 @@ alignl { stack {
                     <m:mi>n</m:mi>
                     <m:mo stretchy="false">)</m:mo>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow/>
+                  <m:mtd/>
                 </m:mtr>
                 <m:mtr>
                   <m:mtable>
                     <m:mtr>
-                      <m:mrow/>
+                      <m:mtd/>
                     </m:mtr>
                     <m:mtr>
-                      <m:mrow>
+                      <m:mtd>
                         <m:mrow>
                           <m:mtable>
                             <m:mtr>
-                              <m:mrow>
+                              <m:mtd>
                                 <m:mrow>
                                   <m:mo stretchy="true">{</m:mo>
                                   <m:mrow/>
                                 </m:mrow>
                                 <m:mrow/>
-                              </m:mrow>
+                              </m:mtd>
                             </m:mtr>
                           </m:mtable>
                           <m:mrow/>
                         </m:mrow>
-                      </m:mrow>
+                      </m:mtd>
                     </m:mtr>
                   </m:mtable>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:annotation encoding="StarMath 5.0">alignl { stack {
@@ -9639,7 +9639,7 @@ alignl { stack {
             <m:semantics>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow>
                       <m:msub>
                         <m:mi>k</m:mi>
@@ -9681,10 +9681,10 @@ alignl { stack {
                       <m:mn>0</m:mn>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mn>0</m:mn>
                     <m:mtext/>
                     <m:mrow>
@@ -9700,16 +9700,16 @@ alignl { stack {
                       <m:mn>0</m:mn>
                     </m:mrow>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:mrow/>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     <m:msub>
                       <m:mi>c</m:mi>
                       <m:mstyle fontsize="8pt">
@@ -9734,17 +9734,17 @@ alignl { stack {
                     </m:mrow>
                     <m:mtable>
                       <m:mtr>
-                        <m:mrow>
+                        <m:mtd>
                           <m:mrow>
                             <m:mo stretchy="true">{</m:mo>
                             <m:mrow/>
                           </m:mrow>
                           <m:mrow/>
-                        </m:mrow>
+                        </m:mtd>
                       </m:mtr>
                     </m:mtable>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
                 <m:mtr>
                   <m:mstyle fontsize="12pt">
@@ -9823,14 +9823,14 @@ alignl { stack {
           </m:math>
         </para>
         <para id="id4769425">Trong trường hợp này hàm mục tiêu z là hàm phi tuyến với các đối số là xj (j=1n) mặc dù các ràng buộc thực tế như nguyên liệu, thị truờng,.... đều là tuyến tính nên bài toán rất khó giải. Người ta có thể đưa bài toán này về bài toán quy hoạch tuyến tính nguyên bộ phận bằng cách đưa vào các biến phụ nhị phân như sau :</para>
-        <para id="id4769464"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mn>1</m:mn><m:mtext/><m:mrow><m:msub><m:mtext>nÕu  x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mn>0</m:mn><m:mtext/><m:mrow><m:msub><m:mtext>nÕu x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{y rSub { size 8{j} } =alignl { stack {
+        <para id="id4769464"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mn>1</m:mn><m:mtext/><m:mrow><m:msub><m:mtext>nÕu  x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">&gt;</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mn>0</m:mn><m:mtext/><m:mrow><m:msub><m:mtext>nÕu x</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mtd></m:mtr><m:mtr><m:mstyle fontsize="12pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0"> size 12{y rSub { size 8{j} } =alignl { stack {
  left lbrace 1"     ""nÕu  x" rSub { size 8{j} } &gt;0 {} # 
  right none  left lbrace 0"     ""nÕu x" rSub { size 8{j} } =0 {} # 
  right no } }  lbrace } {}</m:annotation></m:semantics></m:math> (1)</para>
         <para id="id4769614">Để biểu thị yj (j=1n) là biến nhị phân độc lập, không phụ thuộc vào xj như trong (1) người ta đưa vào một ràng buộc tuyến tính như sau :</para>
         <para id="id4769653">xj  Myj (j=1n)</para>
         <para id="id4769700">ở đây M&gt;0 và rất lớn để ràng buộc xj   là thừa. Khi đó hàm mục tiêu và ràng buộc trên trở thành :</para>
-        <para id="id4769738"><m:math><m:semantics><m:mtable><m:mtr><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>min</m:mtext><m:mrow><m:mtext>  z</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">≤</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>My</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow><m:mtable><m:mtr><m:mrow><m:mo stretchy="false">[</m:mo><m:mn>0</m:mn><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mo stretchy="false">[</m:mo><m:mn>1</m:mn><m:mrow/></m:mrow></m:mtr></m:mtable><m:mo stretchy="false">[</m:mo><m:mtext/><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow/></m:mtr><m:mtr><m:mtable><m:mtr><m:mrow/></m:mtr><m:mtr><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow></m:mtr></m:mtable></m:mtr><m:mtr><m:mrow><m:mrow/></m:mrow></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0">alignl { stack {
+        <para id="id4769738"><m:math><m:semantics><m:mtable><m:mtr><m:mtd><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>min</m:mtext><m:mrow><m:mtext>  z</m:mtext><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>j</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:mo stretchy="false">(</m:mo><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>c</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mrow><m:mn>0</m:mn><m:mo stretchy="false">≤</m:mo><m:msub><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">≤</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>My</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:msub><m:mi>y</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>j</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mrow/></m:mrow><m:mtable><m:mtr><m:mtd><m:mo stretchy="false">[</m:mo><m:mn>0</m:mn><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mo stretchy="false">[</m:mo><m:mn>1</m:mn><m:mrow/></m:mtd></m:mtr></m:mtable><m:mo stretchy="false">[</m:mo><m:mtext/><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtable><m:mtr><m:mtd/></m:mtr><m:mtr><m:mtd><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mo stretchy="true">{</m:mo><m:mrow/></m:mrow><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mtd></m:mtr></m:mtable></m:mtr><m:mtr><m:mtd><m:mrow/></m:mtd></m:mtr></m:mtable><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{"min""  z"= Sum cSub { size 8{j=1} }  cSup { size 8{n} }  { \( k rSub { size 8{j} } y rSub { size 8{j} } +c rSub { size 8{j} } x rSub { size 8{j} }  \) } }  {} # 
 alignl { stack {
  left lbrace 0 &lt;= x rSub { size 8{j} }  &lt;=  ital "My" rSub { size 8{j} }  {} # 
